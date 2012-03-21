@@ -1,3 +1,4 @@
+#test git
 class MoviesController < ApplicationController
 
   def show
